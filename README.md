@@ -35,4 +35,14 @@ adonis.plot <- adonis_plot(adonis, "Plot Title")
 Note that color and shape vectors can be "NULL" 
 
 ### Plot Examples: 
+![PCOA Example](img/pcoa1.png)
 
+PCOA Example
+
+![RDA Example](img/pcoa_rda1.png)
+
+Distance-based RDA Example
+
+![ADONIS Example](img/pcoa_adonis1.png)
+
+PERMANOVA (adonis) Barplot Example
