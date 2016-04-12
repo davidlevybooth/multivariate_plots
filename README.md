@@ -6,7 +6,9 @@ D. Levy-Booth 04/12/2016
 
 More information on using the "capscape" and "adonis" functions for 
 multivariate analysis by Jari Oksanen: 
+
 CAPSCALE: http://cc.oulu.fi/~jarioksa/softhelp/vegan/html/capscale.html
+
 ADONIS: http://cc.oulu.fi/~jarioksa/softhelp/vegan/html/adonis.html
 
 1. PCoA - Multidimentional Scaling of a vegan "capscale" object.
