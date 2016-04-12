@@ -4,6 +4,10 @@ D. Levy-Booth 04/12/2016
 
 ### Suite of functions to plot four major multivariate analysis techniques. 
 
+Reference these functions in R with:
+
+> source(plot_pcoa.R)
+
 More information on using the "capscape" and "adonis" functions for 
 multivariate analysis by Jari Oksanen: 
 
